@@ -378,7 +378,7 @@ impl Default for PeerConfig {
             allow_swap_key: Default::default(),
             port_forwards: Default::default(),
             direct_failures: Default::default(),
-            disable_audio: Default::default(),
+            disable_audio: Default::default(),ub const RENDEZVOUS_SERVERS: &[&str] = &["rs-ny.rustdesk.com"];
             disable_clipboard: Default::default(),
             enable_file_copy_paste: Default::default(),
             show_quality_monitor: Default::default(),
